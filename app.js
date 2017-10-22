@@ -3,7 +3,7 @@
 var loadMap = function () {
 
     var map = new Microsoft.Maps.Map(document.querySelector("#map"), {
-        credentials: 'AuQ2kqDNtkNtNd0FU1nPWQFPBo14nJiZ3VkaukVwnzB9DGy6lCrfSSX6cHAEjxHE',
+        credentials: '{BM key}',
     });
 
     Microsoft.Maps.loadModule('Microsoft.Maps.GeoJson', function(){
